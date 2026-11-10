@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.DS_Store
+jobs/*/*
+!jobs/*/*.inp
+run_all.log
+nohup.out
+*.xyz
+*.cif
